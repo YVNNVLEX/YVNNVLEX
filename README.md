@@ -19,7 +19,7 @@ My main objective is to further develop my skills in information technology, wit
 </picture>
 
 ## 👾 TECH STACK 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,go,prisma,postgres,md,pnpm,npm,flutter,dart,nextjs,mysql,nodejs,mongodb,express,laravel,wordpress,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,go,prisma,postgres,md,pnpm,npm,flutter,dart,nextjs,mysql,nodejs,mongodb,express,laravel,wordpress,photoshop,illustrator,notion)](https://skillicons.dev)
 
 ## 🧑‍💻 Let's Connect
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/kouakou-yann-alex-n-guessan-03240126b)  
